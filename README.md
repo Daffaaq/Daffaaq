@@ -26,9 +26,9 @@
 I am a Student Bachelor Degree of Informatics Engineering <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Technical Desaign Graphics and Editing Video.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, Ya Rebahan lah.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-DaffaAqila-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daffaaqilar/)
 

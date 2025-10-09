@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Laravel-based web application projects.
 - 🤔 I’m looking for help with learning Golang, Ruby, and React for future full-stack development.
 - 💬 Ask me about Laravel – I’d be happy to help!
-- 📫 How to reach me: daffaaqila.dev@gmail.com or [LinkedIn](https://www.linkedin.com/in/daffaaqilar/)
+- 📫 How to reach me: daffaaqila48@gmail.com or [LinkedIn](https://www.linkedin.com/in/daffaaqilar/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy editing videos and doing graphic design when I'm not debugging code!
 

@@ -60,7 +60,7 @@ I am a Bachelor Degree graduate in Informatics Engineering <img src="https://med
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Daffaaq&theme=dark&locale=id&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daffaaq&show_icons=true&theme=dark)
-<!--
+
 **Daffaaq/Daffaaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -73,4 +73,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: daffaaqila.dev@gmail.com or [LinkedIn](https://www.linkedin.com/in/daffaaqilar/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy editing videos and doing graphic design when I'm not debugging code!
--->
+

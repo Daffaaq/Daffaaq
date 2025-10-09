@@ -2,10 +2,10 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/daffaaqilar/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.instagram.com/daffaaqilar/">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="your-twitter-URL">
@@ -23,7 +23,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Student Bachelor Degree of Informatics Engineering <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
+I am a Bachelor Degree graduate in Informatics Engineering <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Desaign Graphics and Editing Video.
@@ -34,11 +34,23 @@ I am a Student Bachelor Degree of Informatics Engineering <img src="https://medi
 
 ---
 
+### :briefcase: Work Experience :
+- **IT Programmer** at *Dinas Kepemudaan dan Olahraga Provinsi Jawa Timur*  
+  November 2024 – December 2024  
+  Developed and maintained software solutions to support organizational needs.
+
+- **System Development Operator** at *PT Indoprima Gemilang*  
+  November 2025 – Present  
+  Developing desktop applications for internal use.
+  Maintaining and troubleshooting computer hardware and network systems to ensure operational continuity.
+
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-line-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -53,12 +65,12 @@ I am a Student Bachelor Degree of Informatics Engineering <img src="https://medi
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on building internal desktop applications and improving system infrastructure at PT Indoprima Gemilang.
+- 🌱 I’m currently learning desktop development with C#, Laravel, Ruby, and Golang.
+- 👯 I’m looking to collaborate on Laravel-based web application projects.
+- 🤔 I’m looking for help with learning Golang, Ruby, and React for future full-stack development.
+- 💬 Ask me about Laravel – I’d be happy to help!
+- 📫 How to reach me: daffaaqila.dev@gmail.com or [LinkedIn](https://www.linkedin.com/in/daffaaqilar/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy editing videos and doing graphic design when I'm not debugging code!
 -->

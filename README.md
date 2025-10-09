@@ -37,11 +37,12 @@ I am a Bachelor Degree graduate in Informatics Engineering <img src="https://med
 ### :briefcase: Work Experience :
 - **IT Programmer** at *Dinas Kepemudaan dan Olahraga Provinsi Jawa Timur*  
   November 2024 – December 2024  
-  Developed and maintained software solutions to support organizational needs.
+  As an IT Programmer at the Youth and Sports Office of East Java Province, I was responsible for compiling data on Community Sports Activators throughout East Java. Additionally, I contributed to the development of the Sports Facilities and Infrastructure Management System, aimed at streamlining the management of sports facilities and infrastructure within the province. Although my contract lasted only two months, during which the system reached approximately 80% completion, I actively collaborated with the team to ensure smooth progress and implementation.
+Furthermore, I designed ticket templates for sports venues managed by the office using CorelDRAW.
 
 - **System Development Operator** at *PT Indoprima Gemilang*  
   November 2025 – Present  
-  Developing desktop applications for internal use.
+  Developing and enhancing desktop application user interfaces for better usability. Also creating product name cards that display monthly item quantities, which are generated and printed using PHP native.
   Maintaining and troubleshooting computer hardware and network systems to ensure operational continuity.
 
 ---

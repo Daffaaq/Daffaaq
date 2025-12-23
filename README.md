@@ -42,7 +42,7 @@ Furthermore, I designed ticket templates for sports venues managed by the office
 
 - **System Development Operator** at *PT Indoprima Gemilang*  
   Oktober 2025 – Present  
-  Developing and enhancing Website QA System (Laravel) and HC System (PHP Native) user interfaces for better usability. Also creating product name cards that display monthly item quantities, which are generated and printed using PHP native.
+  Developing and enhancing Website QA System (Laravel) user interfaces for better usability. HC System (PHP Native) is currently in progress. Also developing a QR Code auto-generation system for wire tracking using PHP Native.
 Maintaining and troubleshooting computer hardware and network systems to ensure operational continuity.
 
 ---

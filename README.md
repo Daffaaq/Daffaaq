@@ -41,9 +41,9 @@ I am a Bachelor Degree graduate in Informatics Engineering <img src="https://med
 Furthermore, I designed ticket templates for sports venues managed by the office using CorelDRAW.
 
 - **System Development Operator** at *PT Indoprima Gemilang*  
-  November 2025 – Present  
-  Developing and enhancing desktop application user interfaces for better usability. Also creating product name cards that display monthly item quantities, which are generated and printed using PHP native.
-  Maintaining and troubleshooting computer hardware and network systems to ensure operational continuity.
+  Oktober 2025 – Present  
+  Developing and enhancing Website QA System (Laravel) and HC System (PHP Native) user interfaces for better usability. Also creating product name cards that display monthly item quantities, which are generated and printed using PHP native.
+Maintaining and troubleshooting computer hardware and network systems to ensure operational continuity.
 
 ---
 
